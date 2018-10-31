@@ -1,0 +1,18 @@
+#things {
+  display: flex;
+}
+
+article {
+  flex-direction: row;
+  margin: 25px;
+}
+
+#thing1 {
+  border: solid 1px orangered;
+  flex-basis: 50%;
+}
+
+#thing2 {
+  border: solid 1px indigo;
+  flex-basis: 50%;
+}

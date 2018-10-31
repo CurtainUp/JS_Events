@@ -1,0 +1,8 @@
+.power-disabled {
+  background-color: gray;
+}
+
+.power-enabled {
+  background-color: fuchsia;
+  color: goldenrod;
+}
